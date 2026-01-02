@@ -18,7 +18,7 @@ export const Footer = () => {
               Solusi benur udang dan nener berkualitas untuk keberhasilan panen petambak Indonesia.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="hover:text-white transition-colors"><Facebook size={20} /></a>
+              <a href="https://www.facebook.com/Kaswanct52" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors"><Facebook size={20} /></a>
               <a href="#" className="hover:text-white transition-colors"><Instagram size={20} /></a>
               <a href="#" className="hover:text-white transition-colors"><Twitter size={20} /></a>
             </div>
