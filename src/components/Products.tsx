@@ -1,5 +1,4 @@
 import { motion } from 'framer-motion';
-import { Card } from './ui/Card';
 import { Button } from './ui/Button';
 import { Check, ArrowUpRight, ShieldCheck } from 'lucide-react';
 import type { Product } from '../types';
