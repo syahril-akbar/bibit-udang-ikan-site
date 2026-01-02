@@ -2,7 +2,7 @@ import { Users, Clock, Star, TrendingUp } from 'lucide-react';
 import { Card } from './ui/Card';
 
 const stats = [
-  { label: 'Kepercayaan Petani', value: 'Bintang 5', icon: Star, color: 'text-yellow-500' },
+  { label: 'Kepercayaan Petambak', value: 'Bintang 5', icon: Star, color: 'text-yellow-500' },
   { label: 'Siap Dihubungi', value: 'Setiap Saat', icon: Clock, color: 'text-blue-500' },
   { label: 'Pelanggan Setia', value: 'Banyak', icon: Users, color: 'text-green-500' },
   { label: 'Kondisi Bibit', value: 'Sehat', icon: TrendingUp, color: 'text-purple-500' },
